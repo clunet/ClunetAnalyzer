@@ -6,3 +6,5 @@ Debug-Legacy-1.1.14/
 *.suo
 *.sln.ecd
 *.vcxproj.user
+/.vs/
+/Visual Studio/.vs/
