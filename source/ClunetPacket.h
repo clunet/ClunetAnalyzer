@@ -44,6 +44,6 @@ public:
 	U8 CalculateChecksum() const;
 	U8 GetMaxIndex() const;
 	void FillRandom(bool wrong_checksum = false);
-	static const char * ClunetPacket::FrameTypeToString(U8 type);
+	static const char * FrameTypeToString(U8 type);
 };
 
